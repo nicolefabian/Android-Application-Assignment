@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Dessert Shop</string>
+
+    <string name="bread_category">Category: Bread</string>
+    <string name="cake_category">Category: Cake</string>
+    <string name="dessert_category">Category: Dessert</string>
+
+    <!--@FUNCTION SHOWBREAD(), ADDING THESE TO THE FOODBREAD ARRAY-->
+    <string name="croissant_details">Light and flaky, layered traditional French pastry made using 100% New Zealand butter.</string>
+    <string name="banana_bread_details">Each banana bread are individually baked in their own tray, perfect for tea time or after dinner treat.</string>
+    <string name="scone_details"> The ideal accompaniment to a cup of coffee or tea, or served on a platter when friends pop over.</string>
+    <string name="red_bean_details">Fresh hand made bread with a center of sweet red bean paste. </string>
+    <string name="cinnamon_details">Soft and fluffy bun filled with cinnamon sugar inside topped with a cream cheese icing.</string>
+    <string name="challah_details">Our Challah with Sesame is made fresh to order so it gets to you in the freshest condition.</string>
+    <string name="choco_bread_details">Quick and easy, this delightful bread is filled with mouthwatering chocolatey goodness. </string>
+    <string name="cross_buns_details">Brioche hot cross buns are made from an enriched buttery dough to give fluffy texture and aromatic smell. </string>
+    <string name="sourdough_details">Our Sourdough Roll has a thick and crunchy crust, making it perfect for a bowl of soup or dip for one!</string>
+    <string name="garlic_bread_details">The perfect side to a spag bol or lasagna on pasta night.</string>
+
+    <string name="croissant_info">Our Almond Croissants are a match made in heaven with a delicious Frangipane filling and our award winning croissants.
+        These are sure to brighten up your day!
+        With a deliciously flaky crust and light, buttery texture inside, our Croissants are perfect for any occasion –
+        breakfast, lunch, sweet, savoury – anything goes!</string>
+    <string name="banana_bread_info">Made with 100% organic ingredients and completely free of animal products, our vegan banana bread
+        is the fruit of careful consideration by its makers.
+    </string>
+    <string name="scones_info">The perfect savoury scone made with high quality ingredients – best eaten warm spread liberally with butter!
+        Soft and ever-so-slightly crumbly on the inside, and deliciously crispy on top.
+    </string>
+    <string name="red_bean_info">Sweet red bean paste is also known as "adzuki bean paste", and used in many Japanese, Chinese and Korean foods. It has a nutty
+        chocolaty flavour, and is very popular ingredient among desserts and confectionery in Asia.
+    </string>
+    <string name="cinnamon_info">An absolute bestseller. Cinnamon buns are made of rich, buttery yeasty dough and filled with cinnamon and sugar mixture.
+        Finished with a creamy cheese sweet glaze.
+    </string>
+    <string name="challah_info">A traditional Jewish bread. Soft with a touch of sweetness. Comes with two variations,
+        poppy seeds and sesame seeds. Available every Friday.
+    </string>
+    <string name="choco_bread_info">Dark Callebaut chocolate chunks are folded into a white boule – one-third of the bread’s weight is chocolate!
+        Many consider this bread as one of the most elegant, delicious and unique breads they have ever tasted.
+        Try toasting it so the chocolate starts to melt with a little butter spread on top or serve as dessert with ice cream or berries and fresh whipped cream. Be prepared to swoon.
+    </string>
+    <string name="crossbuns_info">In case you knead another reason to devour our Traditional Hot Cross Buns,
+        they’re made with real fruit, delicious spice mix and no bitter orange peel!</string>
+    <string name="sourdough_info">A classic breakfast bread perfect to start your morning every day especially paired with your favourite morning coffee.
+    </string>
+    <string name="garlic_bread_info">A savoury twisted bread with a tasty triple cheese melt, crusted with cheese and garlic gratings to give a toasted, crunchy coating.
+        This bread is great to share. Just tear off a twist and eat. Great for dipping and filling.
+        This bread is crafted from 100% nz flour and baked fresh in store.
+    </string>
+
+
+
+
+
+    <!--@FUNCTION SHOWCAKE() FOR FOODCAKE ARRAY-->
+    <string name="mangocake_details">A light vanilla sponge cake, with three layers of mango fresh cream.</string>
+    <string name="tiramisu_details">Vanilla sponge layered with rum syrup, chocolate ganache and coffee flavoured cream.</string>
+    <string name="strawberry_details">Vanilla sponge layered with strawberry flavoured cream and natural strawberry filling.</string>
+    <string name="choco_details">Our famous Chocolate cake is filled and topped with Whittakers ganache. </string>
+    <string name="strawberrychoc_details">A customer favourite cake finished with chocolate glaze and chocolate dipped strawberries. </string>
+    <string name="fruitcake_details">One of our best selling cakes topped with fresh seasonal fruit.</string>
+    <string name="cookiescake_details">Add magic to your celebration with this delicious cookies and cream cake!</string>
+    <string name="blackforest_details">Chocolate sponge layered with vanilla flavoured cream and hand-crushed sour cherries.</string>
+    <string name="birthday_details">Celebrate your birthday with one of our special birthday cake!</string>
+    <string name="strawvanilla_details">French traditional strawberry cake with vanilla mousseline cream.</string>
+
+    <string name="mangocake_info">Our mango cake is made  from real mango puree combined with  super soft vanilla chiffon layers.
+        This cake is made with vanilla chiffon cake, mango mousse and real mango chunks. Decorated with white cream masking,
+        cream piping real mango chunks, silver sugar balls, edible gold leaves and a cute mint leaf.
+    </string>
+    <string name="tiramisu_info">Filled with layers of cream cheese, crème anglaise, and an Irish coffee liqueur soaked sponge, our Tiramisu cake is coated in butter cream and finished with a dusting of cocoa and Belgian chocolates.
+    </string>
+    <string name="strawberrycake_info">Delicious chiffon sponge cake filled with fresh cream, fresh strawberry slices and strawberry jam.
+        Decorated with fresh strawberries, fresh cream piping, silver sugar balls and edible gold leaf.
+    </string>
+    <string name="chococake__info">Nothing more decadent than a chocolate cake made with real 52% couverture Belgium chocolate and then layered with chocolate ganache and then topped with handcrafted chocolate shards. Only the finest chocolate goes into making this beauty!
+    </string>
+    <string name="strawberrychoc_info">This is the ultimate rich and fudgey chocolate cake.
+        A rich mouth-watering chocolate mud cake made from premium French chocolate with a chocolate ganache
+        coating and a dusting of cocoa powder on top, this is the ultimate cake for chocolate lovers.
+    </string>
+    <string name="fruitcake_info">Coming up with one of the finest tastes, this is going to make your taste buds climb up to an unforgettable experience.
+        Made of three rich and smooth creamy layers packed with the tropical fruits and all time favourite Kiwi, this cake is sure to relish your sweet tooth fruity desires with its exotic fruit delight.
+    </string>
+    <string name="cookiescake__info">A match made in heaven - Cookies and cream. A dreamy chocolate cake with cookies and cream buttercream and topped with oreo and dollops of whipped cream. Get creative with your drizzle colour and dig in!
+    </string>
+    <string name="blackforest_info">It is time to notch up your celebration by getting a dainty black forest cake in almost 60 minutes to your place.
+        This will satisfy your sweet cravings, and you would love to delight your beloved ones with the lip-smacking flavours crafted with rich ingredients.
+    </string>
+    <string name="birthday_info">Get ready for some sweet celebrations with this birthday cake! Everyone deserves a special celebration. Make each birthday unforgettable with this exclusive Happy Birthday cake.
+    </string>
+    <string name="strawvanilla_info">This lovely cake is enriched with fresh homemade vanilla strawberry cake layers, creamy vanilla filling, and was topped with our fluffy whipped frosting.
+    </string>
+
+
+
+    <!--@FUNCTION SHOWDESSERT() FOR FOODDESSERT ARRAY-->
+    <string name="almondtart_details">A decadent treat to share anytime. </string>
+    <string name="chocstrawberrycup_details">Rich and fluffy chocolate cupcakes topped with flavorful strawberry frosting.</string>
+    <string name="cookies_details">Classic chocolate chip cookies perfect to brighten your day.</string>
+    <string name="cookiesandwich_details">Newly added homemade cookie sandwich filled with delicious cream.</string>
+    <string name="eggtart_details">Hongkong egg tarts filled with smooth lightly sweetened egg.</string>
+    <string name="macaron1_details">Small, delicate meringue-based cookies perfect as a small snack.</string>
+    <string name="macaron2_details">Newly added flavours for our customers favourite macaroon cookies. </string>
+    <string name="peanutcookie_details">Handmade all time childhood cookies favourite.</string>
+    <string name="sprinklescupcake_details">Make celebration better with our cupcake topped with cream and sprinkles.</string>
+    <string name="whipcupcake_details">Baked to perfection topped with delicious light whipped cream.</string>
+
+    <string name="almondatart_info">These tasty little tarts, with their sweet, ground almond filling, are a wonderful finish to a light summer meal.
+        Our tart are topped with almonds with a delicious chocolate drizzle best served with sliced fresh peaches and whipped cream to make them extra-special.
+    </string>
+    <string name="chocstrawberrycup_info">These luxurious chocolate strawberry cupcakes have rich chocolate and soft strawberry sponge. Topped with pink strawberry buttercream and finished with a fresh strawberry.
+    </string>
+    <string name="cookies_info">These deliciously chewy cookies are made with our secret blend of plant-based ingredients - organic quinoa and coconut flours are baked with organic coconut oil and fair trade vegan dark chocolate.
+    </string>
+    <string name="cookiesandwich_info">These are super chewy and delicious! Our triple choc cookies are filled with chunks of chocolate and are filled with caramel and our signature vanilla bean butter cream.
+    </string>
+    <string name="eggtart_info">Freshly baked egg tarts with buttery base and soft egg custard inside. Pastry flour makes it spongy combines with milk-egg make harmony flavor,
+        attract customers.
+    </string>
+    <string name="macaron1_info">The Paris macaron, the essential ingredient of French pastry, is a must on every table. For a snack, as a dessert or to accompany coffee, there are plenty of opportunities to share a box of macarons. Between a symphony of colours and a mix of textures that delight the palate, macarons are simply incomparable.
+    </string>
+    <string name="macaron2_info">Treat yourself with these light tasty macarons perfect to enjoy daily or share it with your friends to create fond memories together.
+    </string>
+    <string name="peanutcookie_info">Our alluring and firm Peanut Cookies with a salty aftertaste is the perfect treat for all peanut lovers!
+        Our Peanut Butter Oat Cookies are vegan and refined sugar-free, meaning they’re perfect for every occasion where cookies are necessary.
+    </string>
+    <string name="sprinklescupcake_info">Vanilla cupcake topped with a light whipped cream and decorated with sprinkles. Perfect for celebrations and sunny days to cheer you up!
+    </string>
+    <string name="whipcupcake_info">One of our best seller and all time customer favourite chocolate cupcake topped with a delicious whip cream and grated dark chocolate with some almond nuts.
+    </string>
+
+</resources>

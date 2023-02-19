@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/detailsImage"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_background" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="300dp"
+            android:layout_marginBottom="-5dp"
+            app:cardCornerRadius="20dp">
+
+            <RelativeLayout
+                android:id="@+id/catlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/detailscatimage"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_margin="10dp"
+                    android:layout_marginStart="15dp"
+                    android:src="@drawable/ic_launcher_background" />
+
+                <TextView
+                    android:id="@+id/detailscatext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:layout_toRightOf="@id/detailscatimage"
+                    android:text="Category"
+                    android:textStyle="bold"
+                   />
+
+                <TextView
+                    android:id="@+id/detailsTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/detailscatimage"
+                    android:fontFamily="@font/merriweather"
+                    android:padding="8dp"
+                    android:text="Item Title"
+                    android:textColor="#6B9069"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/detailsTextPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/detailscatimage"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="5dp"
+                    android:padding="10dp"
+                    android:text="$0.00"
+                    android:textColor="#6B9069"
+                    android:textSize="18sp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/detailsText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/detailsTextPrice"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Details of the Item"
+                    android:textColor="#424242"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/detailsText2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/detailsText"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="20dp"
+                    android:text="Further details of the item"
+                    android:textColor="#424242"
+                    android:textSize="18sp" />
+
+            </RelativeLayout>
+
+
+
+
+        </androidx.cardview.widget.CardView>
+        </RelativeLayout>
+</ScrollView>
