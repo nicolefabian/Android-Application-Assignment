@@ -1,5 +1,5 @@
 # Android-Application-Assignment
-.Net 4.0 Android application created with Java to showcase a fictional desert shop using ListViews.
+.Net 4.0 Android application created with Java to showcase a fictional desert shop using ListViews for UX and UI design course.
 
 ## App Screenshots
 
